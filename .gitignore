@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 logs/
+.env 
+.python-version
+PG Local.session.sql
+pyproject.toml
+
