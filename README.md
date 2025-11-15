@@ -40,6 +40,13 @@ Simple interface where users can search, filter, and view deals.
 
 # ▶️ Run the project
 `pip install -r requirements.txt`
+
 `playwright install`
 `uvicorn api.main:app --reload`
 `streamlit run frontend/app.py`
+
+
+# API Documentation
+
+* Swagger UI : [text](http://localhost:8000/docs)
+* ReDoc: [text](http://localhost:8000/redoc)
