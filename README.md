@@ -42,7 +42,9 @@ Simple interface where users can search, filter, and view deals.
 `pip install -r requirements.txt`
 
 `playwright install`
+
 `uvicorn api.main:app --reload`
+
 `streamlit run frontend/app.py`
 
 
