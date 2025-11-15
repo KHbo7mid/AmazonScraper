@@ -48,5 +48,5 @@ Simple interface where users can search, filter, and view deals.
 
 # API Documentation
 
-* Swagger UI : [text](http://localhost:8000/docs)
-* ReDoc: [text](http://localhost:8000/redoc)
+* Swagger UI : [http://localhost:8000/docs](http://localhost:8000/docs)
+* ReDoc: [http://localhost:8000/redoc](http://localhost:8000/redoc)
